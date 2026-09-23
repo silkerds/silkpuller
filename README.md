@@ -16,6 +16,16 @@ Silkpuller is a lyric puller for LRCLIB. It looks for music in a directory of yo
 Your music files must have metadata for **title, album, and artist**.
 Album is not required for the LRCLIB API, so you can comment out the lines related to it if you want.
 
+## Dependencies
+
+- Python 3
+- requests
+- mutagen
+
+Install the Python dependencies with:
+
+pip install requests mutagen
+
 As of making this program, I have been learning Python for about a week.
 I made it to practice interacting with APIs and files through Python.
 I am uploading it here solely because a friend of mine told me to.
