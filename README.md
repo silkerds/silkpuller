@@ -1,18 +1,21 @@
 # silkprojects
-this will be a repository that houses all my *significant* python projects as I learn python.
-listed below are projects in this repo
 
+This will be a repository that houses all my *significant* Python projects as I learn Python.
 
+I appreciate comments, constructive criticism, and suggestions.
+
+Listed below are the projects in this repo.
 
 # silkpuller
-lyric puller, beginner python learning project
 
-Silkpuller is a lyric puller for lrclib, it looks for music in a directory of your choice. Following a folder format (does that make sense here?) of 
-*yourchoice>artists>albums>songfiles*
+Lyric puller, beginner Python learning project.
 
-your music files must have metadata for title, album, and track_artist 
-(album is not required for the lrclib api so you can comment out the lines about it if you please)
+Silkpuller is a lyric puller for LRCLIB. It looks for music in a directory of your choice, following this structure:
+*your choice > artists > albums > song files*
 
-As of making this program, I have been learning python for about a week,
-I made it to practice interacting with apis and files through python.
+Your music files must have metadata for **title, album, and artist**.
+Album is not required for the LRCLIB API, so you can comment out the lines related to it if you want.
+
+As of making this program, I have been learning Python for about a week.
+I made it to practice interacting with APIs and files through Python.
 I am uploading it here solely because a friend of mine told me to.
