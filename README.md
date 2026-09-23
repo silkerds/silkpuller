@@ -1,4 +1,10 @@
-# silkpuller
+# silkprojects
+this will be a repository that houses all my *significant* python projects as I learn python.
+listed below are projects in this repo
+
+
+
+#silkpuller
 lyric puller, beginner python learning project
 
 Silkpuller is a lyric puller for lrclib, it looks for music in a directory of your choice. Following a folder format (does that make sense here?) of 
