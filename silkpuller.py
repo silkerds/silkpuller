@@ -70,7 +70,7 @@ for artist in music_dir.iterdir():
                 album = audio['album'][0]
                 duration = round(audio.info.length)
                 #the lrclib docs said I needed a header
-                headers = {"User-Agent": "lrcmatch, a personal python learning project, 'https://github.com/silkerds/silkpuller'"}
+                headers = {"User-Agent": "silkpuller v0.2.0 https://github.com/silkerds/silkpuller"}
                 #if no lyrics, or if lyrics but replace is on
                 if file.with_suffix(".lrc") not in folder.iterdir() or file.with_suffix(".lrc") in folder.iterdir() and replace == "true":
                     if file.with_suffix(".lrc") not in folder.iterdir():
