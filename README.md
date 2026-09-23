@@ -1,9 +1,9 @@
 # silkprojects
 
 This will be a repository that houses all my *significant* Python projects as I learn Python.
+I am only posting my projects on here because I was urged to by a friend of mine
 
 I appreciate comments, constructive criticism, and suggestions.
-
 Listed below are the projects in this repo.
 
 # silkpuller
@@ -28,4 +28,3 @@ pip install requests mutagen
 
 As of making this program, I have been learning Python for about a week.
 I made it to practice interacting with APIs and files through Python.
-I am uploading it here solely because a friend of mine told me to.
